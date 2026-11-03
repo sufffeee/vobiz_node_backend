@@ -197,12 +197,16 @@ Without Redis: state is in-memory only (lost on restart).
 - **Dial Log**: `GET /dial-log` — recent call events
 - **Logs**: Railway dashboard → Deployments → View Logs
 
-## Repository
+## Repositories
 
-https://github.com/vobizofficial-cmd/vobiz-dialer-backend
+- **Backend (Vobiz Official)**: https://github.com/vobizofficial-cmd/vobiz-dialer-backend
+- **Backend (Personal Fork)**: https://github.com/sufffeee/vobiz_node_backend
+- **Android App (Vobiz Official)**: https://github.com/vobizofficial-cmd/vobiz-dialer-android
+- **Android App (Personal Fork)**: https://github.com/sufffeee/vobiz-dialer
 
 ## Related
 
-- **Android App**: https://github.com/vobizofficial-cmd/vobiz-dialer-android
+- **Android App (Vobiz Official)**: https://github.com/vobizofficial-cmd/vobiz-dialer-android
+- **Android App (Personal Fork)**: https://github.com/sufffeee/vobiz-dialer
 - **Architecture Docs**: Android repo → `docs/ARCHITECTURE.md`
 - **Inbound Debugging**: Android repo → `docs/INBOUND_DEBUG.md`
